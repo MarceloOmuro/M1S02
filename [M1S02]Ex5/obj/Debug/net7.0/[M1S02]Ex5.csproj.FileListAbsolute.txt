@@ -1,0 +1,15 @@
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\bin\Debug\net7.0\[M1S02]Ex5.exe
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\bin\Debug\net7.0\[M1S02]Ex5.deps.json
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\bin\Debug\net7.0\[M1S02]Ex5.runtimeconfig.json
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\bin\Debug\net7.0\[M1S02]Ex5.dll
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\bin\Debug\net7.0\[M1S02]Ex5.pdb
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\obj\Debug\net7.0\[M1S02]Ex5.csproj.AssemblyReference.cache
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\obj\Debug\net7.0\[M1S02]Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\obj\Debug\net7.0\[M1S02]Ex5.AssemblyInfoInputs.cache
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\obj\Debug\net7.0\[M1S02]Ex5.AssemblyInfo.cs
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\obj\Debug\net7.0\[M1S02]Ex5.csproj.CoreCompileInputs.cache
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\obj\Debug\net7.0\[M1S02]Ex5.dll
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\obj\Debug\net7.0\refint\[M1S02]Ex5.dll
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\obj\Debug\net7.0\[M1S02]Ex5.pdb
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\obj\Debug\net7.0\[M1S02]Ex5.genruntimeconfig.cache
+C:\Users\marcy\Documents\Floripa\Semana2\[M1S02]Ex5\obj\Debug\net7.0\ref\[M1S02]Ex5.dll
